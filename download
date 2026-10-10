@@ -1,0 +1,6 @@
+*.pkl
+*.b64
+face_*.png
+pet_preview.png
+__pycache__/
+.DS_Store
